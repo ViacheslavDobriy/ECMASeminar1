@@ -100,4 +100,4 @@ function sumDigits(number) {
     return 0;
 }
 
-console.log(sumDigits(12345));
+console.log(sumDigits(123459));
